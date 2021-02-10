@@ -24,4 +24,4 @@ with:
 
 ## Reference
 
-https://docs.github.com/ja/actions/creating-actions/creating-a-docker-container-action
+[Docker コンテナのアクションを作成する](https://docs.github.com/ja/actions/creating-actions/creating-a-docker-container-action)
